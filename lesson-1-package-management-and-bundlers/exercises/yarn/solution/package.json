@@ -1,0 +1,11 @@
+{
+  "name": "yarn_exercise",
+  "version": "1.0.0",
+  "description": "An introduction to using yarn",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1"
+  }
+}
